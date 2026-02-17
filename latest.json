@@ -1,1 +1,19 @@
-Not Found
+{
+  "version": "1.0.4",
+  "notes": "Ver changelog para más detalles",
+  "pub_date": "2026-02-17T17:18:56.540Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOTd6Qk1IWDh3eWJid09XOTZyTHB3MllvbmtGL2tCekdRN1VldUtYSXgwZXd4VEtTMzQxWUFHV1JBUGdTaHhBaWhKV3pHNG53VzVSWmllaGVIMDlobTRCZFVrc3NrY2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMzQ4NzMwCWZpbGU6Q2VudHJhbGl6YWRvciBBdWxhIFZpcnR1YWxfMS4wLjRfeDY0LXNldHVwLmV4ZQpEeFZHSmNUK0xkQWxMZitJMjhPdWw4VVBQTkZNWXkyMitlQ2R6TjExYlkyVlgzNndPaUd2RGk0MGNjdWRMTWl0ekMyM3ZCWVZpKzY0bUc5NmQ5UEpCZz09Cg==",
+      "url": "https://github.com/DiegoArmando-hub/centralizador_prod/releases/download/v1.0.5/Centralizador.Aula.Virtual_1.0.4_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOTd6Qk1IWDh3eWJid09XOTZyTHB3MllvbmtGL2tCekdRN1VldUtYSXgwZXd4VEtTMzQxWUFHV1JBUGdTaHhBaWhKV3pHNG53VzVSWmllaGVIMDlobTRCZFVrc3NrY2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMzQ4NzMwCWZpbGU6Q2VudHJhbGl6YWRvciBBdWxhIFZpcnR1YWxfMS4wLjRfeDY0LXNldHVwLmV4ZQpEeFZHSmNUK0xkQWxMZitJMjhPdWw4VVBQTkZNWXkyMitlQ2R6TjExYlkyVlgzNndPaUd2RGk0MGNjdWRMTWl0ekMyM3ZCWVZpKzY0bUc5NmQ5UEpCZz09Cg==",
+      "url": "https://github.com/DiegoArmando-hub/centralizador_prod/releases/download/v1.0.5/Centralizador.Aula.Virtual_1.0.4_x64-setup.exe"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOTd6Qk1IWDh3eVhlZnVNbGhGd1p2eCtkcFdDS3JhTEl1dG1hd2dxMlh3UUlUWGpuNzB3eGVNYjVTZ3NNWitkSkI1Q1NxUHNEV2I0dzk4bjJFamwrczUyL3d0N2tFdXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMzQ4NzMwCWZpbGU6Q2VudHJhbGl6YWRvciBBdWxhIFZpcnR1YWxfMS4wLjRfeDY0X2VuLVVTLm1zaQpQOVM3T2hNL1lRSXVzNEQ4bTV3NkFxWTJuaDQzUUhqMEl4U1VWMDNBLzZ5bmh1TE50dHBOaEU1NU4xSFNFVGlvSHRBN1dqaHRWQ3l6TWh1MHNGMURDZz09Cg==",
+      "url": "https://github.com/DiegoArmando-hub/centralizador_prod/releases/download/v1.0.5/Centralizador.Aula.Virtual_1.0.4_x64_en-US.msi"
+    }
+  }
+}
