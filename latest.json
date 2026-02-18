@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "notes": "## Cambios en v1.0.2\n\nLa aplicacion notificara automaticamente cuando haya actualizaciones disponibles.\n\n### Descargas manuales\nMSI: Instalacion corporativa / oficina (requiere permisos de admin)\nEXE: Instalacion personal / teletrabajo",
   "pub_date": "2026-02-18T12:33:16.772Z",
   "platforms": {
