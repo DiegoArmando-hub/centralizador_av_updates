@@ -1,19 +1,15 @@
 {
-  "version": "1.0.7",
-  "notes": "## Cambios en v1.0.7\n\nLa aplicacion notificara automaticamente cuando haya actualizaciones disponibles.\n\n### Descargas manuales\nMSI: Instalacion corporativa / oficina (requiere permisos de admin)\nEXE: Instalacion personal / teletrabajo",
-  "pub_date": "2026-02-18T18:05:56.221Z",
+  "version": "1.0.9",
+  "notes": "Release v1.0.9",
+  "pub_date": "2026-02-19T09:16:18Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOTd6Qk1IWDh3eVFEQzhHbmljRWVlYitMTWlsOHBzTXhJMXFvSlk0U0hWQy9wbWhnenJnT20vZkdmeS9NWjFJNjFsYWtDd2hYZjFyQmFKbXBaS1ZyTkt4OVYrWmlpd0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNDM3OTUyCWZpbGU6Q2VudHJhbGl6YWRvciBBdWxhIFZpcnR1YWxfMS4wLjdfeDY0X2VuLVVTLm1zaQpIV2pEYTd1M1g3dzQxZk83RjJwWTQ1blREYTFhL2hVbWErYTNubGczUzFqT2VyYm9JNnZqUzYzMXluSUV1ODlkL3ZPMEIyTW1LWUpjVDN0dDhobU1CZz09Cg==",
-      "url": "https://raw.githubusercontent.com/DiegoArmando-hub/centralizador_av_updates/main/releases/v1.0.7/Centralizador%20Aula%20Virtual_1.0.7_x64_en-US.msi"
-    },
-    "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOTd6Qk1IWDh3eVFEQzhHbmljRWVlYitMTWlsOHBzTXhJMXFvSlk0U0hWQy9wbWhnenJnT20vZkdmeS9NWjFJNjFsYWtDd2hYZjFyQmFKbXBaS1ZyTkt4OVYrWmlpd0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNDM3OTUyCWZpbGU6Q2VudHJhbGl6YWRvciBBdWxhIFZpcnR1YWxfMS4wLjdfeDY0X2VuLVVTLm1zaQpIV2pEYTd1M1g3dzQxZk83RjJwWTQ1blREYTFhL2hVbWErYTNubGczUzFqT2VyYm9JNnZqUzYzMXluSUV1ODlkL3ZPMEIyTW1LWUpjVDN0dDhobU1CZz09Cg==",
-      "url": "https://raw.githubusercontent.com/DiegoArmando-hub/centralizador_av_updates/main/releases/v1.0.7/Centralizador%20Aula%20Virtual_1.0.7_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOTd6Qk1IWDh3eVY4dGFWQzZMdXFGMm9kSWovTVNuZVVWY2NBWEliVk0xTzBPcmYrbjJFazcxUG1WUlpubXp0a2F1bEVUVWFFaUVaanNhVWlVMThrRU5iRDFwUGtUeHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNDkyNTU1CWZpbGU6Q2VudHJhbGl6YWRvciBBdWxhIFZpcnR1YWxfMS4wLjlfeDY0X2VuLVVTLm1zaQpjb050WjN5a3BxRkZoVlNqb0NGMjY2WDJHUkJFSXIvMUJ3QVg3WVp6NTVIVWhSMDJicTVlaGh6NjZTamMrNStzSkpUMEZ1QUdleDZDZmVEM1pvUGxDUT09Cg==",
+      "url": "https://github.com/DiegoArmando-hub/centralizador_av_updates/releases/download/v1.0.9/Centralizador Aula Virtual_1.0.9_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOTd6Qk1IWDh3eWZSWG90NndRdDNacW1GamZtYTkrVElldEZ2bjUwRWxkMjF3OFRhK1Q4M3BCTEhrN2tKQTh4Tmx2NXRrYU1hNVBGWEdWWi83VjE0YnBOb0grUG1HTWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNDM3OTUyCWZpbGU6Q2VudHJhbGl6YWRvciBBdWxhIFZpcnR1YWxfMS4wLjdfeDY0LXNldHVwLmV4ZQpmNStmNEYrTlB2T0VUdGRnV0JOeDZCRklaV1E3bXpsMWcwT0VwSlkzT3BocFc2czJTM2VaT1NvaWdlNHd3NXJDblhPZkE0dHMrS0NjTDNCQzRnL09CZz09Cg==",
-      "url": "https://raw.githubusercontent.com/DiegoArmando-hub/centralizador_av_updates/main/releases/v1.0.7/Centralizador%20Aula%20Virtual_1.0.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOTd6Qk1IWDh3eVMrUjZFa0Q5ZDRTTUJ0cklnU0lUQkpKbS9pMWw2RVI4R3dtNUVxZDh3ekZweDRGTWo1VnVRaXpKOExFR013U1BKRW55bXN3U0UwTVhOaElxcEdjMkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNDkyNTU1CWZpbGU6Q2VudHJhbGl6YWRvciBBdWxhIFZpcnR1YWxfMS4wLjlfeDY0LXNldHVwLmV4ZQpkVWx4ejNWb3dmNzFoQU1vUmxwODVZVkl2OVRLaytiYU5Ic2ZsRnlocm1pWCtsSEZkbGsxeTQzalQwVlFnMnpkVkpDS3VSSVBqUWlwSm9nUWpRQnpCQT09Cg==",
+      "url": "https://github.com/DiegoArmando-hub/centralizador_av_updates/releases/download/v1.0.9/Centralizador Aula Virtual_1.0.9_x64-setup.exe"
     }
   }
 }
